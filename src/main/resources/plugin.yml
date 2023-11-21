@@ -1,0 +1,4 @@
+name: FSFixSpawnPos
+version: '${project.version}'
+main: com.minimouse48.fsfixspawnpos.FSFixSpawnPos
+api-version: '1.19'
